@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="client">
+    <CLASSES>
+      <root url="file:///usr/local/wildfly-8.2.0.Final/bin/client" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/wildfly-8.2.0.Final/bin/client" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/local/wildfly-8.2.0.Final/bin/client" recursive="false" />
+    <jarDirectory url="file:///usr/local/wildfly-8.2.0.Final/bin/client" recursive="false" type="SOURCES" />
+  </library>
+</component>
